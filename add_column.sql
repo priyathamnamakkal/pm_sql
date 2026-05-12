@@ -1,0 +1,3 @@
+ALTER TABLE persons
+ADD Email VARCHAR(50) NOT NULL;
+
